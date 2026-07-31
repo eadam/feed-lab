@@ -6,28 +6,29 @@
      xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
     <title>The Copper Pan</title>
-    <link>http://localhost:8788/copper-pan/</link>
+    <link>https://eadam.github.io/feed-lab/copper-pan/</link>
     <description>Invented recipes and imaginary restaurants.</description>
-    <webfeeds:icon>http://localhost:8788/copper-pan/icon.svg</webfeeds:icon>
+    <webfeeds:icon>https://eadam.github.io/feed-lab/copper-pan/icon.svg</webfeeds:icon>
     <image>
-      <url>http://localhost:8788/copper-pan/icon.svg</url>
+      <url>https://eadam.github.io/feed-lab/copper-pan/icon.svg</url>
       <title>The Copper Pan</title>
-      <link>http://localhost:8788/copper-pan/</link>
+      <link>https://eadam.github.io/feed-lab/copper-pan/</link>
     </image>
     <item>
-      <title>We ate nothing but single-grain risotto for a week</title>
-      <link>http://localhost:8788/copper-pan/articles/fl-9c4771-copper-pan-00039.html</link>
-      <guid isPermaLink="false">fl-9c4771-copper-pan-00039</guid>
-      <pubDate>Fri, 31 Jul 2026 10:42:01 GMT</pubDate>
+      <title>Chefs are quietly abandoning the single-grain risotto — sponsored</title>
+      <link>https://eadam.github.io/feed-lab/copper-pan/articles/fl-9c4771-copper-pan-00040.html</link>
+      <guid isPermaLink="false">fl-9c4771-copper-pan-00040</guid>
+      <pubDate>Fri, 31 Jul 2026 10:44:32 GMT</pubDate>
       <dc:creator>Sam Brine</dc:creator>
-      <description>The single-grain risotto takes four hours and tastes like it took three. The single-grain risotto takes four hours and tastes like it took three.</description>
-      <content:encoded><![CDATA[<p>The recipe calls for patience, and then rather more minimal plating.</p>
+      <description>The single-grain risotto takes four hours and tastes like it took three. It reheats badly, which the author considers a feature.</description>
+      <content:encoded><![CDATA[<p>Restaurants report the single-grain risotto sells best to people who did not order it.</p>
+<p>It reheats badly, which the author considers a feature.</p>
 <p>Purists insist minimal plating peaked in 1974 and has been coasting since.</p>
-<p>Restaurants report the single-grain risotto sells best to people who did not order it.</p>
-<p>The single-grain risotto takes four hours and tastes like it took three.</p>
-<p>Restaurants report the single-grain risotto sells best to people who did not order it.</p>
-<p>Buried in paragraph six: a passing mention of giveaway.</p>]]></content:encoded>
-      <media:content url="http://localhost:8788/copper-pan/images/fl-9c4771-copper-pan-00039.svg" medium="image"/>
+<p>Purists insist minimal plating peaked in 1974 and has been coasting since.</p>
+<p>Salt is, as ever, the subject of an ongoing dispute.</p>
+<p>It reheats badly, which the author considers a feature.</p>
+<p>It reheats badly, which the author considers a feature.</p>]]></content:encoded>
+      <media:content url="https://eadam.github.io/feed-lab/copper-pan/images/fl-9c4771-copper-pan-00040.svg" medium="image"/>
     </item>
   </channel>
 </rss>
