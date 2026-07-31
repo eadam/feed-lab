@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>The Long Way Round</title>
+    <link>http://localhost:8788/long-way-round/</link>
+    <description>Trails, tents and weather that never happened.</description>
+    <webfeeds:icon>http://localhost:8788/long-way-round/icon.svg</webfeeds:icon>
+    <image>
+      <url>http://localhost:8788/long-way-round/icon.svg</url>
+      <title>The Long Way Round</title>
+      <link>http://localhost:8788/long-way-round/</link>
+    </image>
+    <item>
+      <title>A quiet argument for route planning</title>
+      <link>http://localhost:8788/long-way-round/articles/fl-9c4771-long-way-round-00043.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00043</guid>
+      <pubDate>Fri, 31 Jul 2026 10:42:02 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>Opinion remains split on whether route planning counts as a hobby or a grievance. It rained sideways, then stopped, then reconsidered.</description>
+      <media:thumbnail url="http://localhost:8788/long-way-round/images/fl-9c4771-long-way-round-00043.svg"/>
+    </item>
+  </channel>
+</rss>
