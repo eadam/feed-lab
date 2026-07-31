@@ -15,6 +15,15 @@
       <link>https://eadam.github.io/feed-lab/long-way-round/</link>
     </image>
     <item>
+      <title>Why nobody agrees about the seventeen-mile detour — offer</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00095.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00095</guid>
+      <pubDate>Fri, 31 Jul 2026 23:24:42 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>Every guidebook mentions the seventeen-mile detour and none of them explain it. The map was right. The path was not. Coverage notes the bingo angle.</description>
+      <media:content url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00095.svg" medium="image"/>
+    </item>
+    <item>
       <title>Why nobody agrees about the moorland shortcut</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00094.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00094</guid>
@@ -262,15 +271,6 @@
       <dc:creator>Pat Ridge</dc:creator>
       <description>The forecast promised sun; shelter debate promised otherwise and was correct. We turned back at four, which everyone agreed was sensible and nobody was happy about. Coverage notes the bingo angle.</description>
       <media:thumbnail url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00066.svg"/>
-    </item>
-    <item>
-      <title>The midge season that ruined a perfectly good weekend</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00065.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00065</guid>
-      <pubDate>Fri, 31 Jul 2026 22:24:00 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>Opinion remains split on whether summer scheduling counts as a hobby or a grievance. Every guidebook mentions the midge season and none of them explain it.</description>
-      <media:thumbnail url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00065.svg"/>
     </item>
   </channel>
 </rss>
