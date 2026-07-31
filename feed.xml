@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>The Daily Fabricator</title>
+    <link>https://eadam.github.io/feed-lab/</link>
+    <description>Entirely made-up news, on schedule.</description>
+    <item>
+      <title>Why the programmable coffee is suddenly everywhere</title>
+      <link>https://eadam.github.io/feed-lab/articles/fl-9c4771-00001.html</link>
+      <guid isPermaLink="false">fl-9c4771-00001</guid>
+      <pubDate>Fri, 31 Jul 2026 06:12:08 GMT</pubDate>
+      <dc:creator>Test Author</dc:creator>
+      <description>Early adopters describe the experience as "fine, mostly", which insiders consider high praise in beverage engineering. Rivals are reportedly racing to ship something similar before anyone asks why.</description>
+      <content:encoded><![CDATA[<img src="https://eadam.github.io/feed-lab/images/fl-9c4771-00001.svg" alt=""/>
+<p>Analysts say the programmable coffee market could double by next quarter, though nobody can name the current size.</p>
+<p>Early adopters describe the experience as "fine, mostly", which insiders consider high praise in beverage engineering.</p>
+<p>A spokesperson confirmed the feature works best when switched on.</p>
+<p>Rivals are reportedly racing to ship something similar before anyone asks why.</p>
+<p>The company declined to comment, then commented at length.</p>
+<p>Standards bodies have scheduled a meeting to schedule further meetings on beverage engineering.</p>
+<p>Buried in paragraph six: a passing mention of beta.</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
