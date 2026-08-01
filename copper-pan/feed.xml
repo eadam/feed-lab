@@ -15,6 +15,20 @@
       <link>https://eadam.github.io/feed-lab/copper-pan/</link>
     </image>
     <item>
+      <title>A brief and unreliable history of bread scheduling</title>
+      <link>https://eadam.github.io/feed-lab/copper-pan/articles/fl-9c4771-copper-pan-00300.html</link>
+      <guid isPermaLink="false">fl-9c4771-copper-pan-00300</guid>
+      <pubDate>Sat, 01 Aug 2026 04:33:19 GMT</pubDate>
+      <dc:creator>Sam Brine</dc:creator>
+      <description>Purists insist bread scheduling peaked in 1974 and has been coasting since. The midnight sourdough takes four hours and tastes like it took three.</description>
+      <content:encoded><![CDATA[<img src="https://eadam.github.io/feed-lab/copper-pan/images/fl-9c4771-copper-pan-00300.svg" alt=""/>
+<p>Restaurants report the midnight sourdough sells best to people who did not order it.</p>
+<p>Purists insist bread scheduling peaked in 1974 and has been coasting since.</p>
+<p>Our tester described the aftertaste as "confident".</p>
+<p>Our tester described the aftertaste as "confident".</p>
+<p>Buried in paragraph six: a passing mention of giveaway.</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Recipe: midnight sourdough, if you must</title>
       <link>https://eadam.github.io/feed-lab/copper-pan/articles/fl-9c4771-copper-pan-00297.html</link>
       <guid isPermaLink="false">fl-9c4771-copper-pan-00297</guid>
@@ -289,20 +303,6 @@
 <p>Purists insist slow cooking peaked in 1974 and has been coasting since.</p>
 <p>Buried in paragraph six: a passing mention of giveaway.</p>]]></content:encoded>
       <enclosure url="https://eadam.github.io/feed-lab/copper-pan/images/fl-9c4771-copper-pan-00234.svg" type="image/svg+xml" length="277"/>
-    </item>
-    <item>
-      <title>Dessert architecture's most divisive dish, explained — sponsored</title>
-      <link>https://eadam.github.io/feed-lab/copper-pan/articles/fl-9c4771-copper-pan-00230.html</link>
-      <guid isPermaLink="false">fl-9c4771-copper-pan-00230</guid>
-      <pubDate>Sat, 01 Aug 2026 02:52:51 GMT</pubDate>
-      <dc:creator>Sam Brine</dc:creator>
-      <description>The recipe calls for patience, and then rather more dessert architecture. Purists insist dessert architecture peaked in 1974 and has been coasting since.</description>
-      <content:encoded><![CDATA[<p>It reheats badly, which the author considers a feature.</p>
-<p>Salt is, as ever, the subject of an ongoing dispute.</p>
-<p>Our tester described the aftertaste as "confident".</p>
-<p>It reheats badly, which the author considers a feature.</p>
-<p>Buried in paragraph six: a passing mention of giveaway.</p>]]></content:encoded>
-      <media:content url="https://eadam.github.io/feed-lab/copper-pan/images/fl-9c4771-copper-pan-00230.svg" medium="image"/>
     </item>
   </channel>
 </rss>
