@@ -15,6 +15,15 @@
       <link>https://eadam.github.io/feed-lab/long-way-round/</link>
     </image>
     <item>
+      <title>The seventeen-mile detour that ruined a perfectly good weekend</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00121.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00121</guid>
+      <pubDate>Sat, 01 Aug 2026 00:15:17 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>The map was right. The path was not. We turned back at four, which everyone agreed was sensible and nobody was happy about.</description>
+      <enclosure url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00121.svg" type="image/svg+xml" length="267"/>
+    </item>
+    <item>
       <title>Why nobody agrees about the four-season tent</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00120.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00120</guid>
@@ -262,15 +271,6 @@
       <pubDate>Fri, 31 Jul 2026 23:16:36 GMT</pubDate>
       <dc:creator>Pat Ridge</dc:creator>
       <description>The forecast promised sun; shell fabrics promised otherwise and was correct. The map was right. The path was not.</description>
-    </item>
-    <item>
-      <title>The four-season tent that ruined a perfectly good weekend</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00090.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00090</guid>
-      <pubDate>Fri, 31 Jul 2026 23:14:35 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>The map was right. The path was not. We turned back at four, which everyone agreed was sensible and nobody was happy about. Coverage notes the bingo angle.</description>
-      <media:thumbnail url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00090.svg"/>
     </item>
   </channel>
 </rss>
