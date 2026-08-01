@@ -15,6 +15,14 @@
       <link>https://eadam.github.io/feed-lab/long-way-round/</link>
     </image>
     <item>
+      <title>Navigation: everyone is wrong except you</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00308.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00308</guid>
+      <pubDate>Sat, 01 Aug 2026 04:44:25 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>Every guidebook mentions the ridge in cloud and none of them explain it. Opinion remains split on whether navigation counts as a hobby or a grievance.</description>
+    </item>
+    <item>
       <title>Route planning: everyone is wrong except you</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00306.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00306</guid>
@@ -266,15 +274,6 @@
       <pubDate>Sat, 01 Aug 2026 03:45:43 GMT</pubDate>
       <dc:creator>Pat Ridge</dc:creator>
       <description>Locals treat the unmarked bothy as a rite of passage, or a warning. Locals treat the unmarked bothy as a rite of passage, or a warning. Coverage notes the bingo angle.</description>
-    </item>
-    <item>
-      <title>The ridge in cloud that ruined a perfectly good weekend</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00266.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00266</guid>
-      <pubDate>Sat, 01 Aug 2026 03:43:42 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>The map was right. The path was not. Opinion remains split on whether navigation counts as a hobby or a grievance.</description>
-      <enclosure url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00266.svg" type="image/svg+xml" length="265"/>
     </item>
   </channel>
 </rss>
