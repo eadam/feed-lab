@@ -15,6 +15,15 @@
       <link>https://eadam.github.io/feed-lab/long-way-round/</link>
     </image>
     <item>
+      <title>Tested: the ridge in cloud, in weather it was not built for</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00116.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00116</guid>
+      <pubDate>Sat, 01 Aug 2026 00:07:10 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>Locals treat the ridge in cloud as a rite of passage, or a warning. Every guidebook mentions the ridge in cloud and none of them explain it.</description>
+      <enclosure url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00116.svg" type="image/svg+xml" length="264"/>
+    </item>
+    <item>
       <title>Why nobody agrees about the seventeen-mile detour</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00115.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00115</guid>
@@ -260,15 +269,6 @@
       <pubDate>Fri, 31 Jul 2026 23:08:31 GMT</pubDate>
       <dc:creator>Pat Ridge</dc:creator>
       <description>Every guidebook mentions the ridge in cloud and none of them explain it. Locals treat the ridge in cloud as a rite of passage, or a warning. Coverage notes the bingo angle.</description>
-    </item>
-    <item>
-      <title>The seventeen-mile detour that ruined a perfectly good weekend</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00086.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00086</guid>
-      <pubDate>Fri, 31 Jul 2026 23:06:29 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>Every guidebook mentions the seventeen-mile detour and none of them explain it. Opinion remains split on whether optimism counts as a hobby or a grievance.</description>
-      <media:thumbnail url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00086.svg"/>
     </item>
   </channel>
 </rss>
