@@ -15,6 +15,14 @@
       <link>https://eadam.github.io/feed-lab/long-way-round/</link>
     </image>
     <item>
+      <title>Route planning: everyone is wrong except you</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00128.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00128</guid>
+      <pubDate>Sat, 01 Aug 2026 00:25:23 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>Every guidebook mentions the moorland shortcut and none of them explain it. The map was right. The path was not.</description>
+    </item>
+    <item>
       <title>A quiet argument for hill shelters — sweepstakes</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00127.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00127</guid>
@@ -260,15 +268,6 @@
       <dc:creator>Pat Ridge</dc:creator>
       <description>Every guidebook mentions the river crossing and none of them explain it. Opinion remains split on whether wet feet management counts as a hobby or a grievance.</description>
       <enclosure url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00096.svg" type="image/svg+xml" length="267"/>
-    </item>
-    <item>
-      <title>Why nobody agrees about the seventeen-mile detour — offer</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00095.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00095</guid>
-      <pubDate>Fri, 31 Jul 2026 23:24:42 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>Every guidebook mentions the seventeen-mile detour and none of them explain it. The map was right. The path was not. Coverage notes the bingo angle.</description>
-      <media:content url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00095.svg" medium="image"/>
     </item>
   </channel>
 </rss>
