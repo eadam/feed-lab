@@ -15,6 +15,15 @@
       <link>https://eadam.github.io/feed-lab/long-way-round/</link>
     </image>
     <item>
+      <title>Summer scheduling: everyone is wrong except you</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00113.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00113</guid>
+      <pubDate>Sat, 01 Aug 2026 00:01:06 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>Opinion remains split on whether summer scheduling counts as a hobby or a grievance. We turned back at four, which everyone agreed was sensible and nobody was happy about. Coverage notes the offer angle.</description>
+      <media:content url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00113.svg" medium="image"/>
+    </item>
+    <item>
       <title>Three days out, and the ridge in cloud won — sweepstakes</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00112.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00112</guid>
@@ -261,15 +270,6 @@
       <dc:creator>Pat Ridge</dc:creator>
       <description>Opinion remains split on whether route planning counts as a hobby or a grievance. We turned back at four, which everyone agreed was sensible and nobody was happy about.</description>
       <enclosure url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00084.svg" type="image/svg+xml" length="265"/>
-    </item>
-    <item>
-      <title>The moorland shortcut that ruined a perfectly good weekend — sweepstakes</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00083.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00083</guid>
-      <pubDate>Fri, 31 Jul 2026 23:00:25 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>Opinion remains split on whether route planning counts as a hobby or a grievance. Opinion remains split on whether route planning counts as a hobby or a grievance. Coverage notes the bingo angle.</description>
-      <enclosure url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00083.svg" type="image/svg+xml" length="267"/>
     </item>
   </channel>
 </rss>
