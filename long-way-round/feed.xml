@@ -15,6 +15,14 @@
       <link>https://eadam.github.io/feed-lab/long-way-round/</link>
     </image>
     <item>
+      <title>Hill shelters: everyone is wrong except you</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00124.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00124</guid>
+      <pubDate>Sat, 01 Aug 2026 00:19:19 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>The map was right. The path was not. We turned back at four, which everyone agreed was sensible and nobody was happy about.</description>
+    </item>
+    <item>
       <title>Three days out, and the ridge in cloud won</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00123.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00123</guid>
@@ -263,15 +271,6 @@
       <dc:creator>Pat Ridge</dc:creator>
       <description>It rained sideways, then stopped, then reconsidered. The forecast promised sun; summer scheduling promised otherwise and was correct.</description>
       <media:thumbnail url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00093.svg"/>
-    </item>
-    <item>
-      <title>Three days out, and the seventeen-mile detour won — sweepstakes</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00092.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00092</guid>
-      <pubDate>Fri, 31 Jul 2026 23:18:37 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>The map was right. The path was not. Locals treat the seventeen-mile detour as a rite of passage, or a warning.</description>
-      <media:content url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00092.svg" medium="image"/>
     </item>
   </channel>
 </rss>
