@@ -15,6 +15,15 @@
       <link>https://eadam.github.io/feed-lab/long-way-round/</link>
     </image>
     <item>
+      <title>Tested: the unmarked bothy, in weather it was not built for</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00208.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00208</guid>
+      <pubDate>Sat, 01 Aug 2026 02:20:44 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>Locals treat the unmarked bothy as a rite of passage, or a warning. The map was right. The path was not. Coverage notes the offer angle.</description>
+      <enclosure url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00208.svg" type="image/svg+xml" length="267"/>
+    </item>
+    <item>
       <title>A quiet argument for summer scheduling</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00207.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00207</guid>
@@ -260,15 +269,6 @@
       <dc:creator>Pat Ridge</dc:creator>
       <description>It rained sideways, then stopped, then reconsidered. The map was right. The path was not. Coverage notes the bingo angle.</description>
       <media:thumbnail url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00167.svg"/>
-    </item>
-    <item>
-      <title>Three days out, and the unmarked bothy won — sweepstakes</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00166.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00166</guid>
-      <pubDate>Sat, 01 Aug 2026 01:20:01 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>It rained sideways, then stopped, then reconsidered. The map was right. The path was not.</description>
-      <media:content url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00166.svg" medium="image"/>
     </item>
   </channel>
 </rss>
