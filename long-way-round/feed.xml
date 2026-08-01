@@ -16,6 +16,15 @@
     </image>
     <item>
       <title>Why nobody agrees about the seventeen-mile detour</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00146.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00146</guid>
+      <pubDate>Sat, 01 Aug 2026 00:51:41 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>The map was right. The path was not. Every guidebook mentions the seventeen-mile detour and none of them explain it.</description>
+      <media:content url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00146.svg" medium="image"/>
+    </item>
+    <item>
+      <title>Why nobody agrees about the seventeen-mile detour</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00145.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00145</guid>
       <pubDate>Sat, 01 Aug 2026 00:49:40 GMT</pubDate>
@@ -259,14 +268,6 @@
       <pubDate>Fri, 31 Jul 2026 23:53:00 GMT</pubDate>
       <dc:creator>Pat Ridge</dc:creator>
       <description>Opinion remains split on whether shelter debate counts as a hobby or a grievance. It rained sideways, then stopped, then reconsidered.</description>
-    </item>
-    <item>
-      <title>The midge season that ruined a perfectly good weekend</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00108.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00108</guid>
-      <pubDate>Fri, 31 Jul 2026 23:50:59 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>The forecast promised sun; summer scheduling promised otherwise and was correct. Every guidebook mentions the midge season and none of them explain it.</description>
     </item>
   </channel>
 </rss>
