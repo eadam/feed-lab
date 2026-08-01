@@ -15,6 +15,14 @@
       <link>https://eadam.github.io/feed-lab/long-way-round/</link>
     </image>
     <item>
+      <title>A quiet argument for wet feet management</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00162.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00162</guid>
+      <pubDate>Sat, 01 Aug 2026 01:13:57 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>It rained sideways, then stopped, then reconsidered. Opinion remains split on whether wet feet management counts as a hobby or a grievance.</description>
+    </item>
+    <item>
       <title>Three days out, and the unmarked bothy won — sweepstakes</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00160.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00160</guid>
@@ -260,14 +268,6 @@
       <dc:creator>Pat Ridge</dc:creator>
       <description>The map was right. The path was not. We turned back at four, which everyone agreed was sensible and nobody was happy about.</description>
       <enclosure url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00121.svg" type="image/svg+xml" length="267"/>
-    </item>
-    <item>
-      <title>Why nobody agrees about the four-season tent</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00120.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00120</guid>
-      <pubDate>Sat, 01 Aug 2026 00:13:15 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>The map was right. The path was not. It rained sideways, then stopped, then reconsidered.</description>
     </item>
   </channel>
 </rss>
