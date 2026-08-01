@@ -15,6 +15,15 @@
       <link>https://eadam.github.io/feed-lab/long-way-round/</link>
     </image>
     <item>
+      <title>A quiet argument for summer scheduling</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00207.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00207</guid>
+      <pubDate>Sat, 01 Aug 2026 02:18:43 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>We turned back at four, which everyone agreed was sensible and nobody was happy about. Every guidebook mentions the midge season and none of them explain it. Coverage notes the bingo angle.</description>
+      <media:content url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00207.svg" medium="image"/>
+    </item>
+    <item>
       <title>Three days out, and the ridge in cloud won — sweepstakes</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00205.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00205</guid>
@@ -260,15 +269,6 @@
       <dc:creator>Pat Ridge</dc:creator>
       <description>It rained sideways, then stopped, then reconsidered. The map was right. The path was not.</description>
       <media:content url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00166.svg" medium="image"/>
-    </item>
-    <item>
-      <title>Shelter debate: everyone is wrong except you</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00165.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00165</guid>
-      <pubDate>Sat, 01 Aug 2026 01:17:59 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>The map was right. The path was not. We turned back at four, which everyone agreed was sensible and nobody was happy about.</description>
-      <enclosure url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00165.svg" type="image/svg+xml" length="267"/>
     </item>
   </channel>
 </rss>
