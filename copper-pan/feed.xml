@@ -15,6 +15,19 @@
       <link>https://eadam.github.io/feed-lab/copper-pan/</link>
     </image>
     <item>
+      <title>The cold roast dinner is having a moment, and nobody asked</title>
+      <link>https://eadam.github.io/feed-lab/copper-pan/articles/fl-9c4771-copper-pan-00283.html</link>
+      <guid isPermaLink="false">fl-9c4771-copper-pan-00283</guid>
+      <pubDate>Sat, 01 Aug 2026 04:08:12 GMT</pubDate>
+      <dc:creator>Sam Brine</dc:creator>
+      <description>Salt is, as ever, the subject of an ongoing dispute. Restaurants report the cold roast dinner sells best to people who did not order it.</description>
+      <content:encoded><![CDATA[<p>Our tester described the aftertaste as "confident".</p>
+<p>Salt is, as ever, the subject of an ongoing dispute.</p>
+<p>Salt is, as ever, the subject of an ongoing dispute.</p>
+<p>Our tester described the aftertaste as "confident".</p>]]></content:encoded>
+      <media:content url="https://eadam.github.io/feed-lab/copper-pan/images/fl-9c4771-copper-pan-00283.svg" medium="image"/>
+    </item>
+    <item>
       <title>We ate nothing but unsalted pickle for a week</title>
       <link>https://eadam.github.io/feed-lab/copper-pan/articles/fl-9c4771-copper-pan-00279.html</link>
       <guid isPermaLink="false">fl-9c4771-copper-pan-00279</guid>
@@ -287,22 +300,6 @@
 <p>Our tester described the aftertaste as "confident".</p>
 <p>The recipe calls for patience, and then rather more viennoiserie.</p>]]></content:encoded>
       <enclosure url="https://eadam.github.io/feed-lab/copper-pan/images/fl-9c4771-copper-pan-00216.svg" type="image/svg+xml" length="272"/>
-    </item>
-    <item>
-      <title>The square croissant is having a moment, and nobody asked</title>
-      <link>https://eadam.github.io/feed-lab/copper-pan/articles/fl-9c4771-copper-pan-00213.html</link>
-      <guid isPermaLink="false">fl-9c4771-copper-pan-00213</guid>
-      <pubDate>Sat, 01 Aug 2026 02:27:44 GMT</pubDate>
-      <dc:creator>Sam Brine</dc:creator>
-      <description>It reheats badly, which the author considers a feature. Salt is, as ever, the subject of an ongoing dispute.</description>
-      <content:encoded><![CDATA[<p>It reheats badly, which the author considers a feature.</p>
-<p>It reheats badly, which the author considers a feature.</p>
-<p>Purists insist viennoiserie peaked in 1974 and has been coasting since.</p>
-<p>It reheats badly, which the author considers a feature.</p>
-<p>Restaurants report the square croissant sells best to people who did not order it.</p>
-<p>It reheats badly, which the author considers a feature.</p>
-<p>Buried in paragraph six: a passing mention of giveaway.</p>]]></content:encoded>
-      <media:content url="https://eadam.github.io/feed-lab/copper-pan/images/fl-9c4771-copper-pan-00213.svg" medium="image"/>
     </item>
   </channel>
 </rss>
