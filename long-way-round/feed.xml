@@ -15,6 +15,15 @@
       <link>https://eadam.github.io/feed-lab/long-way-round/</link>
     </image>
     <item>
+      <title>A quiet argument for route planning</title>
+      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00292.html</link>
+      <guid isPermaLink="false">fl-9c4771-long-way-round-00292</guid>
+      <pubDate>Sat, 01 Aug 2026 04:22:09 GMT</pubDate>
+      <dc:creator>Pat Ridge</dc:creator>
+      <description>The map was right. The path was not. Opinion remains split on whether route planning counts as a hobby or a grievance.</description>
+      <media:content url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00292.svg" medium="image"/>
+    </item>
+    <item>
       <title>A quiet argument for optimism</title>
       <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00291.html</link>
       <guid isPermaLink="false">fl-9c4771-long-way-round-00291</guid>
@@ -266,15 +275,6 @@
       <dc:creator>Pat Ridge</dc:creator>
       <description>Locals treat the seventeen-mile detour as a rite of passage, or a warning. Locals treat the seventeen-mile detour as a rite of passage, or a warning.</description>
       <media:content url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00252.svg" medium="image"/>
-    </item>
-    <item>
-      <title>The moorland shortcut that ruined a perfectly good weekend</title>
-      <link>https://eadam.github.io/feed-lab/long-way-round/articles/fl-9c4771-long-way-round-00250.html</link>
-      <guid isPermaLink="false">fl-9c4771-long-way-round-00250</guid>
-      <pubDate>Sat, 01 Aug 2026 03:21:26 GMT</pubDate>
-      <dc:creator>Pat Ridge</dc:creator>
-      <description>Every guidebook mentions the moorland shortcut and none of them explain it. Locals treat the moorland shortcut as a rite of passage, or a warning. Coverage notes the bingo angle.</description>
-      <media:content url="https://eadam.github.io/feed-lab/long-way-round/images/fl-9c4771-long-way-round-00250.svg" medium="image"/>
     </item>
   </channel>
 </rss>
